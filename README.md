@@ -6,7 +6,7 @@
 
 ### Bug list：
 
-#### package org.yan.util:all util programs
+#### package or files org.yan.util:all util programs
     src/org/yan/LetterCombinationUtil.java
 
 <br/>
