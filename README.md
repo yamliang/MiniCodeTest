@@ -4,7 +4,7 @@
 
 　　This project is used to provide some common util programs, or do some code tests.
 
-### Bug list：
+### Bug list：none
 
 #### package or files org.yan.util:all util programs
     src/org/yan/LetterCombinationUtil.java
